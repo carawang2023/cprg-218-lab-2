@@ -9,6 +9,7 @@
     - [Grilled Chicken Sandwich](#grilled-chicken-sandwich)
 - [Desserts](#desserts)
     - [Chocolate Chip Cookies](#chocolate-chip-cookies)
+    - [Strawberry Cheesecake](#strawberry-cheesecake)
 
 ## Appetizers
 ### Spinach and Artichoke Dip
@@ -59,6 +60,7 @@ Ingredients:
 - 2 cloves garlic, minced
 - Salt and pepper to taste
 - 1 jar (24 oz) spaghetti sauce
+- 1/2 cup sugar
 
 Instructions:
 1. Cook spaghetti according to package instructions.
@@ -113,3 +115,30 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+
+### Strawberry Cheesecake
+
+Ingredients:
+-2 cups all-purpose flour
+-1 teaspoon baking powder
+-1/2 teaspoon salt
+-1/2 cup unsalted butter, softened
+-1 cup granulated sugar
+-3 large eggs
+-1 teaspoon vanilla extract
+-1 cup yogurt
+-1 cup fresh strawberries, diced
+-250g cream cheese, softened
+
+Instructions:
+1.Preheat the oven to 350°F (175°C).
+2.In a bowl, combine flour, baking powder, and salt.
+3.Cream together butter, granulated sugar, and cream cheese until smooth.
+4.Beat in eggs one at a time, then stir in vanilla extract.
+5.Gradually blend in the dry ingredients.
+6.Stir in yogurt until well combined.
+7.Gently fold in diced strawberries.
+8.Pour the batter into a buttered cake pan.
+9.Bake in the preheated oven for approximately 40-45 minutes or until a toothpick inserted into the center comes out clean.
+10.Remove from the oven, let the cake cool in the pan for 15 minutes, then transfer it to a cooling rack to cool completely.
